@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kamalsai2580" target="blank"><img src="https://img.shields.io/twitter/follow/kamalsai2580?logo=twitter&style=for-the-badge" alt="kamalsai2580" /></a> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Transformers**
 
 - 💬 Ask me about **Machine Learning , Deep Learning**
 
