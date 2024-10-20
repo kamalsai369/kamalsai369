@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamal sai Tillari</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+<h3 align="center">A passionate Enterprenuer</h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/sync/D5627AQFdpwZ5DmRJow/articleshare-shrink_800/0/1711970569877?e=2147483647&v=beta&t=bfKIhksi5K0tlHTHvLAYWMSVpdCe-Oco-xZoS2sC9n4">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalsai369&label=Profile%20views&color=0e75b6&style=flat" alt="kamalsai369" /> </p>
 
